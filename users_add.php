@@ -20,7 +20,7 @@ if (isset($_POST['username'])) {
         die();
 
     }else {
-        echo'Wala kang statement';
+        echo'Could not prepare statement';
     }
 
 
